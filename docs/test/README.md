@@ -21,9 +21,11 @@
 
 ![photo_2023-01-06_21-19-45](https://user-images.githubusercontent.com/92856350/211114114-8b2390ba-eb92-4bc0-a77b-90e352aed064.jpg)
 
+
 ### GET-запит для перевірки оновлення користувача з ID = 9
 
 ![photo_2023-01-06_21-20-33](https://user-images.githubusercontent.com/92856350/211114156-8d6f313a-4612-48a5-9660-3020a863ec21.jpg)
+
 
 ## DELETE-запит для видалення користувача з бази
 
